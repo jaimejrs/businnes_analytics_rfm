@@ -1,4 +1,4 @@
-# Bootcamp Data Analytics - Digital College
+# Business Analytics - RFM Score
 
 Este repositório consolida projetos práticos e códigos desenvolvidos com o objetivo de construir uma arquitetura de dados completa. O foco do projeto varia desde a modelagem e extração de dados em ambiente Cloud até a automação de pipelines de ETL e geração de inteligência de cliente (Customer Intelligence) através de algoritmos de segmentação.
 
